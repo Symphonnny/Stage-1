@@ -1,0 +1,41 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250929151637
+Username: DESKTOP-B0M94DN\User
+RunAs User: DESKTOP-B0M94DN\User
+Configuration Name: 
+Machine: DESKTOP-B0M94DN (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 14064
+PSVersion: 5.1.19041.6328
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.6328
+BuildVersion: 10.0.19041.6328
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\User\Desktop\CSCI430\WishlistLog.txt
+PS C:\Users\User\Desktop\CSCI430> javac Wishlist.java
+java Wishlist
+
+
+In the wishlist:
+ - Laptop
+ - Headphones
+ - Watermelon
+
+removing Headphones:
+In the wishlist:
+ - Laptop
+ - Watermelon
+
+clearing the wishlist:
+Nothing saved yet.
+PS C:\Users\User\Desktop\CSCI430> Stop-Transcript
+
+**********************
+Windows PowerShell transcript end
+End time: 20250929151701
+**********************
